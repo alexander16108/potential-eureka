@@ -1,3 +1,7 @@
+# module one project 
+this is a project to learn the basics of how to use linters and workflows
+
+
 ## HTML AND CSS PRACTICE SESSION
 
 In this practice session we:
@@ -25,14 +29,27 @@ In this practice session we:
 
 
 
-Author
-👤 Alexander Odufuye
+## Author
+### 👤 Alexander Odufuye
 
 GitHub: @alexander1608
 
+twitter: @alexander
 
-Show your support
+linkedin: @alexandermayowaOdufuye
+
+
+## Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+## Acknowledgments
 microverse/readme-template
+
+
+
+
+
